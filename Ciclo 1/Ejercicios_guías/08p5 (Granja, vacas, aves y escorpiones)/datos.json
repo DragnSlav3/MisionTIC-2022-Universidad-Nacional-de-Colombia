@@ -1,0 +1,13 @@
+[
+    {
+        "cantidadVacas": 20,
+        "areaCorralVacas": 200,
+        "perimetroCorralVacas": 60,
+        "rendimientoVacaTerreno": 5,
+        "rendimientoVacaLeche": 20,
+        "cantidadAves": 30,
+        "precioAlambre": 100.0,
+        "precioVarilla": 200.0,
+        "precioTablas": 300.0
+    }
+]

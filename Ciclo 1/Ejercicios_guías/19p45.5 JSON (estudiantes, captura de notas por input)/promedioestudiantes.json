@@ -1,0 +1,14 @@
+[
+    {
+        "estudiante": 1,
+        "promedio": 2.0
+    },
+    {
+        "estudiante": 2,
+        "promedio": 3.6666666666666665
+    },
+    {
+        "estudiante": 3,
+        "promedio": 2.3000000000000003
+    }
+]

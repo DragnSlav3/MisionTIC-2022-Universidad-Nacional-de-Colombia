@@ -1,0 +1,32 @@
+{
+    "0": {
+        "nombres": "Germán",
+        "apellidos": "García Polanía",
+        "edad": "39",
+        "estatura": "180"
+    },
+    "1": {
+        "nombres": "Yinet",
+        "apellidos": "Torres Quiñones",
+        "edad": "24",
+        "estatura": "168"
+    },
+    "2": {
+        "nombres": "Alejandra",
+        "apellidos": "Linares",
+        "edad": "33",
+        "estatura": "162"
+    },
+    "3": {
+        "nombres": "Camilo",
+        "apellidos": "Gutiérrez",
+        "edad": "28",
+        "estatura": "178"
+    },
+    "4": {
+        "nombres": "Carlos",
+        "apellidos": "Medina",
+        "edad": "25",
+        "estatura": "182"
+    }
+}
