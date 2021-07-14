@@ -1,0 +1,1474 @@
+[
+    {
+        "abreviacion": "AFG",
+        "nombre": "Afghanistan",
+        "poblacion": 38928341,
+        "total_muertes": 5791,
+        "muertes_x_millon": 148,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ALB",
+        "nombre": "Albania",
+        "poblacion": 2877800,
+        "total_muertes": 2456,
+        "muertes_x_millon": 853,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "DZA",
+        "nombre": "Algeria",
+        "poblacion": 43851043,
+        "total_muertes": 3867,
+        "muertes_x_millon": 88,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "AND",
+        "nombre": "Andorra",
+        "poblacion": 77265,
+        "total_muertes": 127,
+        "muertes_x_millon": 1643,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "AGO",
+        "nombre": "Angola",
+        "poblacion": 32866268,
+        "total_muertes": 941,
+        "muertes_x_millon": 28,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ATG",
+        "nombre": "Antigua and Barbuda",
+        "poblacion": 97928,
+        "total_muertes": 42,
+        "muertes_x_millon": 428,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ARG",
+        "nombre": "Argentina",
+        "poblacion": 45195777,
+        "total_muertes": 99640,
+        "muertes_x_millon": 2204,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ARM",
+        "nombre": "Armenia",
+        "poblacion": 2963234,
+        "total_muertes": 4549,
+        "muertes_x_millon": 1535,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "AUS",
+        "nombre": "Australia",
+        "poblacion": 25499881,
+        "total_muertes": 912,
+        "muertes_x_millon": 35,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "AUT",
+        "nombre": "Austria",
+        "poblacion": 9006400,
+        "total_muertes": 10724,
+        "muertes_x_millon": 1190,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "AZE",
+        "nombre": "Azerbaijan",
+        "poblacion": 10139175,
+        "total_muertes": 4988,
+        "muertes_x_millon": 491,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BHS",
+        "nombre": "Bahamas",
+        "poblacion": 393248,
+        "total_muertes": 254,
+        "muertes_x_millon": 645,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BHR",
+        "nombre": "Bahrain",
+        "poblacion": 1701583,
+        "total_muertes": 1378,
+        "muertes_x_millon": 809,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BGD",
+        "nombre": "Bangladesh",
+        "poblacion": 164689383,
+        "total_muertes": 16842,
+        "muertes_x_millon": 102,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BRB",
+        "nombre": "Barbados",
+        "poblacion": 287371,
+        "total_muertes": 48,
+        "muertes_x_millon": 167,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BLR",
+        "nombre": "Belarus",
+        "poblacion": 9449321,
+        "total_muertes": 3276,
+        "muertes_x_millon": 346,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BEL",
+        "nombre": "Belgium",
+        "poblacion": 11589616,
+        "total_muertes": 25207,
+        "muertes_x_millon": 2174,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BLZ",
+        "nombre": "Belize",
+        "poblacion": 397621,
+        "total_muertes": 331,
+        "muertes_x_millon": 832,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BEN",
+        "nombre": "Benin",
+        "poblacion": 12123198,
+        "total_muertes": 105,
+        "muertes_x_millon": 8,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BTN",
+        "nombre": "Bhutan",
+        "poblacion": 771612,
+        "total_muertes": 1,
+        "muertes_x_millon": 1,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BOL",
+        "nombre": "Bolivia",
+        "poblacion": 11673029,
+        "total_muertes": 17287,
+        "muertes_x_millon": 1480,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BIH",
+        "nombre": "Bosnia and Herzegovina",
+        "poblacion": 3280815,
+        "total_muertes": 9663,
+        "muertes_x_millon": 2945,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BWA",
+        "nombre": "Botswana",
+        "poblacion": 2351625,
+        "total_muertes": 1253,
+        "muertes_x_millon": 532,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BRA",
+        "nombre": "Brazil",
+        "poblacion": 212559409,
+        "total_muertes": 535838,
+        "muertes_x_millon": 2520,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BRN",
+        "nombre": "Brunei",
+        "poblacion": 437483,
+        "total_muertes": 3,
+        "muertes_x_millon": 6,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BGR",
+        "nombre": "Bulgaria",
+        "poblacion": 6948445,
+        "total_muertes": 18154,
+        "muertes_x_millon": 2612,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BFA",
+        "nombre": "Burkina Faso",
+        "poblacion": 20903278,
+        "total_muertes": 168,
+        "muertes_x_millon": 8,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "BDI",
+        "nombre": "Burundi",
+        "poblacion": 11890781,
+        "total_muertes": 8,
+        "muertes_x_millon": 0,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KHM",
+        "nombre": "Cambodia",
+        "poblacion": 16718971,
+        "total_muertes": 953,
+        "muertes_x_millon": 57,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CMR",
+        "nombre": "Cameroon",
+        "poblacion": 26545864,
+        "total_muertes": 1324,
+        "muertes_x_millon": 49,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CAN",
+        "nombre": "Canada",
+        "poblacion": 37742157,
+        "total_muertes": 26414,
+        "muertes_x_millon": 699,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CPV",
+        "nombre": "Cape Verde",
+        "poblacion": 555988,
+        "total_muertes": 290,
+        "muertes_x_millon": 521,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CAF",
+        "nombre": "Central African Republic",
+        "poblacion": 4829764,
+        "total_muertes": 98,
+        "muertes_x_millon": 20,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TCD",
+        "nombre": "Chad",
+        "poblacion": 16425859,
+        "total_muertes": 174,
+        "muertes_x_millon": 10,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CHL",
+        "nombre": "Chile",
+        "poblacion": 19116209,
+        "total_muertes": 33980,
+        "muertes_x_millon": 1777,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CHN",
+        "nombre": "China",
+        "poblacion": 1439323774,
+        "total_muertes": 4636,
+        "muertes_x_millon": 3,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "COL",
+        "nombre": "Colombia",
+        "poblacion": 50882884,
+        "total_muertes": 113335,
+        "muertes_x_millon": 2227,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "COM",
+        "nombre": "Comoros",
+        "poblacion": 869595,
+        "total_muertes": 146,
+        "muertes_x_millon": 167,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "COG",
+        "nombre": "Congo",
+        "poblacion": 5518092,
+        "total_muertes": 167,
+        "muertes_x_millon": 30,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CRI",
+        "nombre": "Costa Rica",
+        "poblacion": 5094114,
+        "total_muertes": 4829,
+        "muertes_x_millon": 947,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CIV",
+        "nombre": "Cote d'Ivoire",
+        "poblacion": 26378275,
+        "total_muertes": 319,
+        "muertes_x_millon": 12,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "HRV",
+        "nombre": "Croatia",
+        "poblacion": 4105268,
+        "total_muertes": 8231,
+        "muertes_x_millon": 2004,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CUB",
+        "nombre": "Cuba",
+        "poblacion": 11326616,
+        "total_muertes": 1608,
+        "muertes_x_millon": 141,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CYP",
+        "nombre": "Cyprus",
+        "poblacion": 888005,
+        "total_muertes": 382,
+        "muertes_x_millon": 430,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CZE",
+        "nombre": "Czechia",
+        "poblacion": 10708982,
+        "total_muertes": 30333,
+        "muertes_x_millon": 2832,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "COD",
+        "nombre": "Democratic Republic of Congo",
+        "poblacion": 89561404,
+        "total_muertes": 984,
+        "muertes_x_millon": 10,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "DNK",
+        "nombre": "Denmark",
+        "poblacion": 5792203,
+        "total_muertes": 2540,
+        "muertes_x_millon": 438,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "DJI",
+        "nombre": "Djibouti",
+        "poblacion": 988002,
+        "total_muertes": 155,
+        "muertes_x_millon": 156,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "DOM",
+        "nombre": "Dominican Republic",
+        "poblacion": 10847904,
+        "total_muertes": 3897,
+        "muertes_x_millon": 359,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ECU",
+        "nombre": "Ecuador",
+        "poblacion": 17643060,
+        "total_muertes": 21832,
+        "muertes_x_millon": 1237,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "EGY",
+        "nombre": "Egypt",
+        "poblacion": 102334403,
+        "total_muertes": 16412,
+        "muertes_x_millon": 160,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SLV",
+        "nombre": "El Salvador",
+        "poblacion": 6486201,
+        "total_muertes": 2457,
+        "muertes_x_millon": 378,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GNQ",
+        "nombre": "Equatorial Guinea",
+        "poblacion": 1402985,
+        "total_muertes": 122,
+        "muertes_x_millon": 86,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ERI",
+        "nombre": "Eritrea",
+        "poblacion": 3546427,
+        "total_muertes": 30,
+        "muertes_x_millon": 8,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "EST",
+        "nombre": "Estonia",
+        "poblacion": 1326539,
+        "total_muertes": 1270,
+        "muertes_x_millon": 957,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SWZ",
+        "nombre": "Eswatini",
+        "poblacion": 1160164,
+        "total_muertes": 696,
+        "muertes_x_millon": 599,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ETH",
+        "nombre": "Ethiopia",
+        "poblacion": 114963583,
+        "total_muertes": 4347,
+        "muertes_x_millon": 37,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "FJI",
+        "nombre": "Fiji",
+        "poblacion": 896444,
+        "total_muertes": 59,
+        "muertes_x_millon": 65,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "FIN",
+        "nombre": "Finland",
+        "poblacion": 5540718,
+        "total_muertes": 976,
+        "muertes_x_millon": 176,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "FRA",
+        "nombre": "France",
+        "poblacion": 67564251,
+        "total_muertes": 111597,
+        "muertes_x_millon": 1651,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GAB",
+        "nombre": "Gabon",
+        "poblacion": 2225728,
+        "total_muertes": 162,
+        "muertes_x_millon": 72,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GMB",
+        "nombre": "Gambia",
+        "poblacion": 2416664,
+        "total_muertes": 185,
+        "muertes_x_millon": 76,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GEO",
+        "nombre": "Georgia",
+        "poblacion": 3989175,
+        "total_muertes": 5479,
+        "muertes_x_millon": 1373,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "DEU",
+        "nombre": "Germany",
+        "poblacion": 83783945,
+        "total_muertes": 91295,
+        "muertes_x_millon": 1089,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GHA",
+        "nombre": "Ghana",
+        "poblacion": 31072945,
+        "total_muertes": 802,
+        "muertes_x_millon": 25,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GRC",
+        "nombre": "Greece",
+        "poblacion": 10423056,
+        "total_muertes": 12782,
+        "muertes_x_millon": 1226,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GRD",
+        "nombre": "Grenada",
+        "poblacion": 112519,
+        "total_muertes": 1,
+        "muertes_x_millon": 8,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GTM",
+        "nombre": "Guatemala",
+        "poblacion": 17915567,
+        "total_muertes": 9756,
+        "muertes_x_millon": 544,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GIN",
+        "nombre": "Guinea",
+        "poblacion": 13132792,
+        "total_muertes": 180,
+        "muertes_x_millon": 13,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GNB",
+        "nombre": "Guinea-Bissau",
+        "poblacion": 1967998,
+        "total_muertes": 70,
+        "muertes_x_millon": 35,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GUY",
+        "nombre": "Guyana",
+        "poblacion": 786559,
+        "total_muertes": 499,
+        "muertes_x_millon": 634,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "HTI",
+        "nombre": "Haiti",
+        "poblacion": 11402533,
+        "total_muertes": 471,
+        "muertes_x_millon": 41,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "HND",
+        "nombre": "Honduras",
+        "poblacion": 9904608,
+        "total_muertes": 7324,
+        "muertes_x_millon": 739,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "HKG",
+        "nombre": "Hong Kong",
+        "poblacion": 7496988,
+        "total_muertes": 212,
+        "muertes_x_millon": 28,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "HUN",
+        "nombre": "Hungary",
+        "poblacion": 9660350,
+        "total_muertes": 30010,
+        "muertes_x_millon": 3106,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ISL",
+        "nombre": "Iceland",
+        "poblacion": 341250,
+        "total_muertes": 29,
+        "muertes_x_millon": 84,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "IND",
+        "nombre": "India",
+        "poblacion": 1380004385,
+        "total_muertes": 411406,
+        "muertes_x_millon": 298,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "IDN",
+        "nombre": "Indonesia",
+        "poblacion": 273523621,
+        "total_muertes": 68219,
+        "muertes_x_millon": 249,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "IRN",
+        "nombre": "Iran",
+        "poblacion": 83992953,
+        "total_muertes": 86207,
+        "muertes_x_millon": 1026,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "IRQ",
+        "nombre": "Iraq",
+        "poblacion": 40222503,
+        "total_muertes": 17630,
+        "muertes_x_millon": 438,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "IRL",
+        "nombre": "Ireland",
+        "poblacion": 4937796,
+        "total_muertes": 5006,
+        "muertes_x_millon": 1013,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ISR",
+        "nombre": "Israel",
+        "poblacion": 8655541,
+        "total_muertes": 6440,
+        "muertes_x_millon": 744,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ITA",
+        "nombre": "Italy",
+        "poblacion": 60461828,
+        "total_muertes": 127808,
+        "muertes_x_millon": 2113,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "JAM",
+        "nombre": "Jamaica",
+        "poblacion": 2961161,
+        "total_muertes": 1134,
+        "muertes_x_millon": 382,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "JPN",
+        "nombre": "Japan",
+        "poblacion": 126476458,
+        "total_muertes": 14923,
+        "muertes_x_millon": 117,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "JOR",
+        "nombre": "Jordan",
+        "poblacion": 10203140,
+        "total_muertes": 9855,
+        "muertes_x_millon": 965,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KAZ",
+        "nombre": "Kazakhstan",
+        "poblacion": 18776707,
+        "total_muertes": 3584,
+        "muertes_x_millon": 190,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KEN",
+        "nombre": "Kenya",
+        "poblacion": 53771300,
+        "total_muertes": 3732,
+        "muertes_x_millon": 69,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KWT",
+        "nombre": "Kuwait",
+        "poblacion": 4270563,
+        "total_muertes": 2147,
+        "muertes_x_millon": 502,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KGZ",
+        "nombre": "Kyrgyzstan",
+        "poblacion": 6524191,
+        "total_muertes": 2123,
+        "muertes_x_millon": 325,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LAO",
+        "nombre": "Laos",
+        "poblacion": 7275556,
+        "total_muertes": 3,
+        "muertes_x_millon": 0,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LVA",
+        "nombre": "Latvia",
+        "poblacion": 1886202,
+        "total_muertes": 2538,
+        "muertes_x_millon": 1345,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LBN",
+        "nombre": "Lebanon",
+        "poblacion": 6825442,
+        "total_muertes": 7879,
+        "muertes_x_millon": 1154,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LSO",
+        "nombre": "Lesotho",
+        "poblacion": 2142252,
+        "total_muertes": 335,
+        "muertes_x_millon": 156,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LBR",
+        "nombre": "Liberia",
+        "poblacion": 5057677,
+        "total_muertes": 144,
+        "muertes_x_millon": 28,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LBY",
+        "nombre": "Libya",
+        "poblacion": 6871287,
+        "total_muertes": 3245,
+        "muertes_x_millon": 472,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LIE",
+        "nombre": "Liechtenstein",
+        "poblacion": 38137,
+        "total_muertes": 59,
+        "muertes_x_millon": 1547,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LTU",
+        "nombre": "Lithuania",
+        "poblacion": 2722291,
+        "total_muertes": 4401,
+        "muertes_x_millon": 1616,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LUX",
+        "nombre": "Luxembourg",
+        "poblacion": 625976,
+        "total_muertes": 819,
+        "muertes_x_millon": 1308,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MDG",
+        "nombre": "Madagascar",
+        "poblacion": 27691019,
+        "total_muertes": 933,
+        "muertes_x_millon": 33,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MWI",
+        "nombre": "Malawi",
+        "poblacion": 19129955,
+        "total_muertes": 1264,
+        "muertes_x_millon": 66,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MYS",
+        "nombre": "Malaysia",
+        "poblacion": 32365998,
+        "total_muertes": 6385,
+        "muertes_x_millon": 197,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MDV",
+        "nombre": "Maldives",
+        "poblacion": 540542,
+        "total_muertes": 214,
+        "muertes_x_millon": 395,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MLI",
+        "nombre": "Mali",
+        "poblacion": 20250834,
+        "total_muertes": 528,
+        "muertes_x_millon": 26,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MLT",
+        "nombre": "Malta",
+        "poblacion": 441539,
+        "total_muertes": 420,
+        "muertes_x_millon": 951,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MRT",
+        "nombre": "Mauritania",
+        "poblacion": 4649660,
+        "total_muertes": 496,
+        "muertes_x_millon": 106,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MUS",
+        "nombre": "Mauritius",
+        "poblacion": 1271767,
+        "total_muertes": 18,
+        "muertes_x_millon": 14,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MEX",
+        "nombre": "Mexico",
+        "poblacion": 128932753,
+        "total_muertes": 235277,
+        "muertes_x_millon": 1824,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MDA",
+        "nombre": "Moldova",
+        "poblacion": 4033963,
+        "total_muertes": 6214,
+        "muertes_x_millon": 1540,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MCO",
+        "nombre": "Monaco",
+        "poblacion": 39244,
+        "total_muertes": 33,
+        "muertes_x_millon": 840,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MNG",
+        "nombre": "Mongolia",
+        "poblacion": 3278292,
+        "total_muertes": 703,
+        "muertes_x_millon": 214,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MNE",
+        "nombre": "Montenegro",
+        "poblacion": 628062,
+        "total_muertes": 1621,
+        "muertes_x_millon": 2580,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MAR",
+        "nombre": "Morocco",
+        "poblacion": 36910558,
+        "total_muertes": 9395,
+        "muertes_x_millon": 254,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MOZ",
+        "nombre": "Mozambique",
+        "poblacion": 31255435,
+        "total_muertes": 1013,
+        "muertes_x_millon": 32,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MMR",
+        "nombre": "Myanmar",
+        "poblacion": 54409794,
+        "total_muertes": 4036,
+        "muertes_x_millon": 74,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NAM",
+        "nombre": "Namibia",
+        "poblacion": 2540916,
+        "total_muertes": 2090,
+        "muertes_x_millon": 822,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NPL",
+        "nombre": "Nepal",
+        "poblacion": 29136808,
+        "total_muertes": 9412,
+        "muertes_x_millon": 323,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NLD",
+        "nombre": "Netherlands",
+        "poblacion": 17134873,
+        "total_muertes": 18054,
+        "muertes_x_millon": 1053,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NZL",
+        "nombre": "New Zealand",
+        "poblacion": 4822233,
+        "total_muertes": 26,
+        "muertes_x_millon": 5,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NIC",
+        "nombre": "Nicaragua",
+        "poblacion": 6624554,
+        "total_muertes": 193,
+        "muertes_x_millon": 29,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NER",
+        "nombre": "Niger",
+        "poblacion": 24206636,
+        "total_muertes": 194,
+        "muertes_x_millon": 8,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NGA",
+        "nombre": "Nigeria",
+        "poblacion": 206139587,
+        "total_muertes": 2125,
+        "muertes_x_millon": 10,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "MKD",
+        "nombre": "North Macedonia",
+        "poblacion": 2083380,
+        "total_muertes": 5487,
+        "muertes_x_millon": 2633,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "NOR",
+        "nombre": "Norway",
+        "poblacion": 5421242,
+        "total_muertes": 796,
+        "muertes_x_millon": 146,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "OMN",
+        "nombre": "Oman",
+        "poblacion": 5106622,
+        "total_muertes": 3472,
+        "muertes_x_millon": 679,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PAK",
+        "nombre": "Pakistan",
+        "poblacion": 220892331,
+        "total_muertes": 22642,
+        "muertes_x_millon": 102,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PSE",
+        "nombre": "Palestine",
+        "poblacion": 5101416,
+        "total_muertes": 3582,
+        "muertes_x_millon": 702,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PAN",
+        "nombre": "Panama",
+        "poblacion": 4314768,
+        "total_muertes": 6654,
+        "muertes_x_millon": 1542,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PNG",
+        "nombre": "Papua New Guinea",
+        "poblacion": 8947027,
+        "total_muertes": 179,
+        "muertes_x_millon": 20,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PRY",
+        "nombre": "Paraguay",
+        "poblacion": 7132530,
+        "total_muertes": 14016,
+        "muertes_x_millon": 1965,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PER",
+        "nombre": "Peru",
+        "poblacion": 32971846,
+        "total_muertes": 194488,
+        "muertes_x_millon": 5898,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PHL",
+        "nombre": "Philippines",
+        "poblacion": 109581085,
+        "total_muertes": 26092,
+        "muertes_x_millon": 238,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "POL",
+        "nombre": "Poland",
+        "poblacion": 37846605,
+        "total_muertes": 75173,
+        "muertes_x_millon": 1986,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "PRT",
+        "nombre": "Portugal",
+        "poblacion": 10196707,
+        "total_muertes": 17173,
+        "muertes_x_millon": 1684,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "QAT",
+        "nombre": "Qatar",
+        "poblacion": 2881060,
+        "total_muertes": 599,
+        "muertes_x_millon": 207,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ROU",
+        "nombre": "Romania",
+        "poblacion": 19237682,
+        "total_muertes": 34233,
+        "muertes_x_millon": 1779,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "RUS",
+        "nombre": "Russia",
+        "poblacion": 145934460,
+        "total_muertes": 142102,
+        "muertes_x_millon": 973,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "RWA",
+        "nombre": "Rwanda",
+        "poblacion": 12952209,
+        "total_muertes": 598,
+        "muertes_x_millon": 46,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KNA",
+        "nombre": "Saint Kitts and Nevis",
+        "poblacion": 53192,
+        "total_muertes": 3,
+        "muertes_x_millon": 56,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LCA",
+        "nombre": "Saint Lucia",
+        "poblacion": 183629,
+        "total_muertes": 86,
+        "muertes_x_millon": 468,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "VCT",
+        "nombre": "Saint Vincent and the Grenadines",
+        "poblacion": 110947,
+        "total_muertes": 12,
+        "muertes_x_millon": 108,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SMR",
+        "nombre": "San Marino",
+        "poblacion": 33938,
+        "total_muertes": 90,
+        "muertes_x_millon": 2651,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "STP",
+        "nombre": "Sao Tome and Principe",
+        "poblacion": 219161,
+        "total_muertes": 37,
+        "muertes_x_millon": 168,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SAU",
+        "nombre": "Saudi Arabia",
+        "poblacion": 34813867,
+        "total_muertes": 8006,
+        "muertes_x_millon": 229,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SEN",
+        "nombre": "Senegal",
+        "poblacion": 16743930,
+        "total_muertes": 1201,
+        "muertes_x_millon": 71,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SRB",
+        "nombre": "Serbia",
+        "poblacion": 6804596,
+        "total_muertes": 7076,
+        "muertes_x_millon": 1039,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SYC",
+        "nombre": "Seychelles",
+        "poblacion": 98340,
+        "total_muertes": 77,
+        "muertes_x_millon": 782,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SLE",
+        "nombre": "Sierra Leone",
+        "poblacion": 7976985,
+        "total_muertes": 113,
+        "muertes_x_millon": 14,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SGP",
+        "nombre": "Singapore",
+        "poblacion": 5850343,
+        "total_muertes": 36,
+        "muertes_x_millon": 6,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SVK",
+        "nombre": "Slovakia",
+        "poblacion": 5459643,
+        "total_muertes": 12522,
+        "muertes_x_millon": 2293,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SVN",
+        "nombre": "Slovenia",
+        "poblacion": 2078932,
+        "total_muertes": 4425,
+        "muertes_x_millon": 2128,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SOM",
+        "nombre": "Somalia",
+        "poblacion": 15893219,
+        "total_muertes": 781,
+        "muertes_x_millon": 49,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ZAF",
+        "nombre": "South Africa",
+        "poblacion": 59308690,
+        "total_muertes": 65142,
+        "muertes_x_millon": 1098,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "KOR",
+        "nombre": "South Korea",
+        "poblacion": 51269183,
+        "total_muertes": 2048,
+        "muertes_x_millon": 39,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SSD",
+        "nombre": "South Sudan",
+        "poblacion": 11193729,
+        "total_muertes": 117,
+        "muertes_x_millon": 10,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ESP",
+        "nombre": "Spain",
+        "poblacion": 46754783,
+        "total_muertes": 81033,
+        "muertes_x_millon": 1733,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "LKA",
+        "nombre": "Sri Lanka",
+        "poblacion": 21413250,
+        "total_muertes": 3574,
+        "muertes_x_millon": 166,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SDN",
+        "nombre": "Sudan",
+        "poblacion": 43849269,
+        "total_muertes": 2760,
+        "muertes_x_millon": 62,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SUR",
+        "nombre": "Suriname",
+        "poblacion": 586634,
+        "total_muertes": 594,
+        "muertes_x_millon": 1012,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SWE",
+        "nombre": "Sweden",
+        "poblacion": 10099270,
+        "total_muertes": 14645,
+        "muertes_x_millon": 1450,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "CHE",
+        "nombre": "Switzerland",
+        "poblacion": 8654618,
+        "total_muertes": 10900,
+        "muertes_x_millon": 1259,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "SYR",
+        "nombre": "Syria",
+        "poblacion": 17500657,
+        "total_muertes": 1900,
+        "muertes_x_millon": 108,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TWN",
+        "nombre": "Taiwan",
+        "poblacion": 23816775,
+        "total_muertes": 747,
+        "muertes_x_millon": 31,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TJK",
+        "nombre": "Tajikistan",
+        "poblacion": 9537642,
+        "total_muertes": 107,
+        "muertes_x_millon": 11,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TZA",
+        "nombre": "Tanzania",
+        "poblacion": 59734213,
+        "total_muertes": 21,
+        "muertes_x_millon": 0,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "THA",
+        "nombre": "Thailand",
+        "poblacion": 69799978,
+        "total_muertes": 2847,
+        "muertes_x_millon": 40,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TLS",
+        "nombre": "Timor",
+        "poblacion": 1318442,
+        "total_muertes": 25,
+        "muertes_x_millon": 18,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TGO",
+        "nombre": "Togo",
+        "poblacion": 8278737,
+        "total_muertes": 134,
+        "muertes_x_millon": 16,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TTO",
+        "nombre": "Trinidad and Tobago",
+        "poblacion": 1399491,
+        "total_muertes": 952,
+        "muertes_x_millon": 680,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TUN",
+        "nombre": "Tunisia",
+        "poblacion": 11818618,
+        "total_muertes": 16651,
+        "muertes_x_millon": 1408,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "TUR",
+        "nombre": "Turkey",
+        "poblacion": 84339067,
+        "total_muertes": 50324,
+        "muertes_x_millon": 596,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "UGA",
+        "nombre": "Uganda",
+        "poblacion": 45741000,
+        "total_muertes": 2164,
+        "muertes_x_millon": 47,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "UKR",
+        "nombre": "Ukraine",
+        "poblacion": 43733759,
+        "total_muertes": 55030,
+        "muertes_x_millon": 1258,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ARE",
+        "nombre": "United Arab Emirates",
+        "poblacion": 9890400,
+        "total_muertes": 1876,
+        "muertes_x_millon": 189,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "GBR",
+        "nombre": "United Kingdom",
+        "poblacion": 67886004,
+        "total_muertes": 128747,
+        "muertes_x_millon": 1896,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "USA",
+        "nombre": "United States",
+        "poblacion": 331002647,
+        "total_muertes": 607771,
+        "muertes_x_millon": 1836,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "URY",
+        "nombre": "Uruguay",
+        "poblacion": 3473727,
+        "total_muertes": 5849,
+        "muertes_x_millon": 1683,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "UZB",
+        "nombre": "Uzbekistan",
+        "poblacion": 33469199,
+        "total_muertes": 778,
+        "muertes_x_millon": 23,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "VUT",
+        "nombre": "Vanuatu",
+        "poblacion": 307150,
+        "total_muertes": 1,
+        "muertes_x_millon": 3,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "VEN",
+        "nombre": "Venezuela",
+        "poblacion": 28435943,
+        "total_muertes": 3315,
+        "muertes_x_millon": 116,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "VNM",
+        "nombre": "Vietnam",
+        "poblacion": 97338583,
+        "total_muertes": 132,
+        "muertes_x_millon": 1,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "YEM",
+        "nombre": "Yemen",
+        "poblacion": 29825968,
+        "total_muertes": 1366,
+        "muertes_x_millon": 45,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ZMB",
+        "nombre": "Zambia",
+        "poblacion": 18383956,
+        "total_muertes": 2904,
+        "muertes_x_millon": 157,
+        "fecha": "2021-07-13"
+    },
+    {
+        "abreviacion": "ZWE",
+        "nombre": "Zimbabwe",
+        "poblacion": 14862927,
+        "total_muertes": 2274,
+        "muertes_x_millon": 152,
+        "fecha": "2021-07-13"
+    }
+]
