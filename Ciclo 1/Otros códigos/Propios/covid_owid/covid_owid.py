@@ -19,10 +19,13 @@ pprint(claves)
 print()
 print(len(claves))
 print()
-pprint(json1["COL"]["data"][-1])
-print(len(json1["COL"]["data"][-1]))
-print(type((json1["COL"]["data"][-1])))
-
+data = json1["AIA"]["data"][-1]
+print("***")
+#print(int(json1["AIA"]["data"][-1]['total_deaths']))
+print("***")
+pprint(data)
+print(len(data))
+print(type(data))
 
 
 claves1 = []
