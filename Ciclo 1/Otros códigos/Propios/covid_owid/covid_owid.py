@@ -33,4 +33,6 @@ for k, v in json1["COL"].items():
 pprint(claves1)
 
 for pais in claves:
-  print(json1[pais]['location'], " -> ", int(json1[pais]['population']))
+    print(f"\nPaís: {json1[pais]['location']} ({pais})")
+    print("Población: ", int(json1[pais]['population']))
+    print("Total muertes COVID: ", (int(json1[pais]["data"][-1]['total_deaths'])))
