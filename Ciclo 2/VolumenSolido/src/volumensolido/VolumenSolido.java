@@ -1,7 +1,14 @@
-package paquete;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package volumensolido;
 
-import java.util.Scanner;
-
+/**
+ *
+ * @author Germán y Lady
+ */
 public class VolumenSolido {
 
     public static float volumenSolido(float r1, float h, float r2) {
@@ -46,7 +53,7 @@ public class VolumenSolido {
         System.out.print("Cono: ");
         System.out.println((Math.PI * Math.pow(4, 2) * ((float) 9 / 2) / 3));
         
-        System.out.println("Hola mundo");
+        System.out.println("Fin.");
 
     }
 }
