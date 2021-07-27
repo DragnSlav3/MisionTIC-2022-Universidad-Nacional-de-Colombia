@@ -38,7 +38,7 @@ public class AreaCarro {
 
         double areaTotal = rectangulo1 + rectangulo2 + circulo1 + circulo2;
         
-        System.out.println(areaTotal);
+        System.out.println("El área total del carro es: " + areaTotal);
 
     }
 
