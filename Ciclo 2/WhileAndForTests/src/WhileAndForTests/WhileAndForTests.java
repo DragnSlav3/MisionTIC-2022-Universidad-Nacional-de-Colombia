@@ -1,6 +1,6 @@
 package WhileAndForTests;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class WhileAndForTests {
 
