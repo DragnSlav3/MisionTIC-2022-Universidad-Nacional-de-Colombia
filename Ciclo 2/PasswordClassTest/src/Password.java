@@ -5,13 +5,24 @@ public class Password {
     String pass;
 
     /*
-    Constructor con un valor de atributo por defecto
+    Constructor con un valor de atributo asignado por el usuario
      */
     public Password(int len) {
-        this.len = 8;
+        this.len = len;
         this.pass = this.startPass(len);
     }
-    
+
+/*
+    Constructor con un valor de atributo asignado por el usuario
+     */
+    public Password(String pass) {
+        this.len = pass.length();
+        this.pass = pass;
+    }
+
+    /*
+    Constructor con valores de atributo predeterminados
+    */
     public Password() {
         this.len = 8;
         this.pass = this.startPass(len);
