@@ -29,7 +29,7 @@ public class Password {
     }
 
     /*
-    Método privado que permite inicializar el atributo pass con caracteres aleatorios
+    Método PRIVADO que permite inicializar el atributo pass con caracteres aleatorios
      */
     private String startPass(int len) {
         this.len = len;
