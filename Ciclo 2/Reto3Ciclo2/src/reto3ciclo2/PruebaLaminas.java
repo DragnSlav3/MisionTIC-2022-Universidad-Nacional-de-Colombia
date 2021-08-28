@@ -119,5 +119,5 @@ public class PruebaLaminas {
         int categoriaRETO = 2;
 
         System.out.println(Laminas.identificarCategoriaLaminasFaltantes(listaLaminasFaltantesRETO, listaCategoriasRETO, categoriaRETO));
-    }
+    } 
 }
