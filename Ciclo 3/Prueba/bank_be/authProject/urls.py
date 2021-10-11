@@ -22,4 +22,12 @@ urlpatterns = [
     path('refresh/',       TokenRefreshView.as_view()), 
     path('user/',          views.UserCreateView.as_view()), 
     path('user/<int:pk>/', views.UserDetailView.as_view()), 
+    path('transaction/create/',                     views.TransactionCreateView.as_view()), # create a new transaction
+    path('transaction/<int:user>/<int:pk>/',        views.TransactionsDetailView.as_view()), # view information for a transaction
+    path('transaction/update/<int:user>/<int:pk>/', views.TransactionsUpdateView.as_view()), # update a transaction
+    path('transaction/remove/<int:user>/<int:pk>/', views.TransactionsDeleteView.as_view()), # delete a transaction
+    path('transactions/<int:user>/<int:account>/',  views.TransactionsAccountView.as_view()), # view all transactions for an specific account
+    path('deposit/create/',                         views.DepositCreateView.as_view()), # create a new deposit
+    path('deposit/<int:user>/<int:pk>/',            views.DepositDetailView.as_view()), # view information for a deposit
+    path('deposits/<int:user>/<int:account>/',      views.DepositsAccountView.as_view()), # view all depositss for an specific account
 ]
